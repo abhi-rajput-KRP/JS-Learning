@@ -5,7 +5,7 @@ console.log(a + b); // It doesn't give error just join them.
 
 
 //Q2- Use typeof operator to find the datatype of the string of last question.
-console.log("The type of variable b is", typeof b);
+console.log("The type of variable a+b is", typeof (a+b));
 
 
 //Q3- Create a const object in javascript can you change it to holde a number later?
